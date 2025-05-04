@@ -34,8 +34,3 @@ The goal of this project is to predict the restaurant rating based on the given 
 - **Scikit-learn** for machine learning algorithms
 - **Matplotlib** for visualizations
 
-## **How to Run the Project**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/restaurant-rating-prediction.git
